@@ -9,7 +9,10 @@
     "bulma 0.5.0",
     "fontawesome"
   ],
-  "repository": "https://github.com/code4mk/atom-bulma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code4mk/atom-bulma"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

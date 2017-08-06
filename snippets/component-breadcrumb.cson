@@ -1,0 +1,31 @@
+'.text.html':
+
+  'breadcrumb -bumla 0.5.0 ':
+    'prefix': 'breadcrumb'
+    'body': """
+
+     """
+
+  'has-arrow-separator -bumla 0.5.0 ':
+    'prefix': 'has-arrow-separator'
+    'body': """
+
+     """
+
+  'has-bullet-separator -bumla 0.5.0 ':
+    'prefix': 'has-bullet-separator'
+    'body': """
+
+     """
+
+  'has-dot-separator -bumla 0.5.0 ':
+    'prefix': 'has-dot-separator'
+    'body': """
+
+     """
+
+  'has-succeeds-separator -bumla 0.5.0 ':
+    'prefix': 'has-succeeds-separator'
+    'body': """
+
+     """

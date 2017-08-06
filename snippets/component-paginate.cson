@@ -1,0 +1,69 @@
+'.text.html':
+
+  'pagination -bumla 0.5.0 ':
+    'prefix': 'pagination'
+    'body': """
+     <nav class="pagination">
+        <a class="pagination-previous">Previous</a>
+        <a class="pagination-next">Next page</a>
+        <ul class="pagination-list">
+          <li>
+            <a class="pagination-link">1</a>
+          </li>
+          <li>
+            <span class="pagination-ellipsis">&hellip;</span>
+          </li>
+          <li>
+            <a class="pagination-link">45</a>
+          </li>
+          <li>
+            <a class="pagination-link is-current">46</a>
+          </li>
+          <li>
+            <a class="pagination-link">47</a>
+          </li>
+          <li>
+            <span class="pagination-ellipsis">&hellip;</span>
+          </li>
+          <li>
+            <a class="pagination-link">86</a>
+          </li>
+        </ul>
+      </nav>
+    """
+
+    'pagination-previous -bumla 0.5.0 ':
+      'prefix': 'pagination-previous'
+      'body': """
+
+      """
+
+    'pagination-next -bumla 0.5.0 ':
+      'prefix': 'pagination-next'
+      'body': """
+
+      """
+
+    'pagination-list -bumla 0.5.0 ':
+      'prefix': 'pagination-list'
+      'body': """
+
+      """
+
+    'pagination-link -bumla 0.5.0 ':
+      'prefix': 'pagination-link'
+      'body': """
+
+      """
+
+    'pagination-ellipsis -bumla 0.5.0 ':
+      'prefix': 'pagination-ellipsis'
+      'body': """
+
+      """
+
+    'is-current -bumla 0.5.0 ':
+      'prefix': 'is-current'
+      'body': """
+
+      """

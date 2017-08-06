@@ -1,0 +1,36 @@
+'.text.html':
+
+  'dropdown -bumla 0.5.0 ':
+    'prefix': 'dropdown'
+    'body': """
+
+    """
+
+  'dropdown-trigger -bumla 0.5.0 ':
+    'prefix': 'dropdown-trigger'
+    'body': """
+
+    """
+
+  'dropdown-menu -bumla 0.5.0 ':
+    'prefix': 'dropdown-menu'
+    'body': """
+
+    """
+  'dropdown-content -bumla 0.5.0 ':
+    'prefix': 'dropdown-content'
+    'body': """
+
+    """
+
+  'dropdown-item -bumla 0.5.0 ':
+    'prefix': 'dropdown-item'
+    'body': """
+
+    """
+
+  'dropdown-divider -bumla 0.5.0 ':
+    'prefix': 'dropdown-divider'
+    'body': """
+
+    """

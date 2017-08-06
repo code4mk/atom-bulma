@@ -1,0 +1,278 @@
+'.text.html':
+
+  'columns -bumla 0.5.0 ':
+    'prefix': 'columns'
+    'body': """
+    <div class="columns">
+      $1
+    </div>
+    """
+
+  'column -bulma 0.5.0':
+    'prefix': 'column'
+    'body': """
+    <div class="columns">
+      $1
+    </div>
+    """
+
+  'is-one-quarter -bulma 0.5.0':
+    'prefix': 'is-one-quarter'
+    'body': """
+    <div class="column is-one-quarter">
+      $1
+    </div>
+    """
+
+  'is-half -bulma 0.5.0':
+    'prefix': 'is-half'
+    'body': """
+    <div class="column is-half">
+    $1
+    </div>
+    """
+
+  'is-three-quarters -bulma 0.5.0':
+    'prefix': 'is-three-quarters'
+    'body': """
+    <div class="column is-three-quarters">
+     $0
+    </div>
+    """
+
+  'is-two-thirds -bulma 0.5.0':
+    'prefix': 'is-two-thirds'
+    'body': """
+    <div class="column two-thirds">
+    $1
+    </div>
+      """
+
+  'is-one-third ':
+    'prefix': 'is-one-third'
+    'body': """
+    <div class="column is-one-third">
+      $1
+    </div>
+    """
+
+  'is-2 -bulma 0.5.0':
+    'prefix': 'is-2'
+    'body': """
+    <div class="column is-2">
+      $1
+    </div>
+    """
+
+  'is-3 -bulma 0.5.0':
+    'prefix': 'is-3'
+    'body': """
+    <div class="column is-3">
+      $1
+    </div>
+    """
+
+  'is-4 -bulma 0.5.0':
+    'prefix': 'is-4'
+    'body': """
+    <div class="column is-4">
+      $1
+    </div>
+    """
+
+  'is-5 -bulma 0.5.0':
+    'prefix': 'is-5'
+    'body': """
+    <div class="column is-5">
+      $1
+    </div>
+    """
+
+  'is-6 -bulma 0.5.0':
+    'prefix': 'is-6'
+    'body': """
+    <div class="column is-6">
+      $1
+    </div>
+    """
+
+  'is-7 -bulma 0.5.0':
+    'prefix': 'is-7'
+    'body': """
+    <div class="column is-7">
+      $1
+    </div>
+    """
+
+  'is-8 -bulma 0.5.0':
+    'prefix': 'is-8'
+    'body': """
+    <div class="column is-8">
+      $1
+    </div>
+    """
+
+  'is-9 -bulma 0.5.0':
+    'prefix': 'is-9'
+    'body': """
+    <div class="column is-9">
+      $1
+    </div>
+    """
+
+  'is-10 -bulma 0.5.0':
+    'prefix': 'is-10'
+    'body': """
+    <div class="column is-10">
+      $1
+    </div>
+    """
+
+  'is-11 -bulma 0.5.0':
+    'prefix': 'is-11'
+    'body': """
+    <div class="column is-11">
+      $1
+    </div>
+    """
+
+  'is-mobile -bulma 0.5.0':
+    'prefix': 'is-mobile'
+    'body': """
+    <div class="columns is-mobile">
+      $1
+    </div>
+    """
+
+  'is-desktop -bulma 0.5.0':
+    'prefix': 'is-desktop'
+    'body': """
+    <div class="columns is-desktop">
+      $1
+    </div>
+    """
+
+  'is-multiline -bulma 0.5.0':
+    'prefix': 'is-multiline'
+    'body': """
+
+    """
+
+  'is-centered -bulma 0.5.0':
+    'prefix': 'is-centered'
+    'body': """
+
+    """
+
+  'is-narrow -bulma 0.5.0':
+    'prefix': 'is-narrow'
+    'body': """
+
+    """
+
+  'is-gapless -bulma 0.5.0':
+    'prefix': 'is-gapless'
+    'body': """
+    <div class="columns is-gapless">
+     <div class="column">First column</div>
+     <div class="column">Second column</div>
+     <div class="column">Third column</div>
+     <div class="column">Fourth column</div>
+    </div>
+    """
+
+  'is-offset-three-quarters -bumla 0.5.0 ':
+    'prefix': 'is-offset-three-quarters'
+    'body': """
+
+    """
+
+  'is-offset-two-thirds -bumla 0.5.0 ':
+    'prefix': 'is-offset-two-thirds'
+    'body': """
+
+    """
+
+  'is-offset-half -bumla 0.5.0 ':
+    'prefix': 'is-offset-half'
+    'body': """
+
+    """
+
+  'is-offset-one-quarter -bumla 0.5.0 ':
+    'prefix': 'is-offset-one-quarter'
+    'body': """
+
+    """
+
+  'is-offset-1 -bumla 0.5.0 ':
+    'prefix': 'is-offset-1'
+    'body': """
+
+    """
+
+  'is-offset-2 -bumla 0.5.0 ':
+    'prefix': 'is-offset-2'
+    'body': """
+
+    """
+
+  'is-offset-3 -bumla 0.5.0 ':
+    'prefix': 'is-offset-3'
+    'body': """
+
+    """
+
+  'is-offset-4 -bumla 0.5.0 ':
+    'prefix': 'is-offset-4'
+    'body': """
+
+    """
+
+  'is-offset-5 -bumla 0.5.0 ':
+    'prefix': 'is-offset-5'
+    'body': """
+
+    """
+
+  'is-offset-6 -bumla 0.5.0 ':
+    'prefix': 'is-offset-6'
+    'body': """
+
+    """
+
+  'is-offset-7 -bumla 0.5.0 ':
+    'prefix': 'is-offset-7'
+    'body': """
+
+    """
+
+  'is-offset-8 -bumla 0.5.0 ':
+    'prefix': 'is-offset-8'
+    'body': """
+
+    """
+
+  'is-offset-9 -bumla 0.5.0 ':
+    'prefix': 'is-offset-9'
+    'body': """
+
+    """
+
+  'is-offset-10 -bumla 0.5.0 ':
+    'prefix': 'is-offset-10'
+    'body': """
+
+    """
+
+  'is-offset-11 -bumla 0.5.0 ':
+    'prefix': 'is-offset-11'
+    'body': """
+
+    """
+
+  'is-offset-12 -bumla 0.5.0 ':
+    'prefix': 'is-offset-12'
+    'body': """
+
+    """

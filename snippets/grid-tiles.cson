@@ -1,0 +1,73 @@
+'.text.html':
+
+    'tile -bumla 0.5.0 ':
+      'prefix': 'tile'
+      'body': """
+      <div class="tile">
+       $1
+      </div>
+      """
+
+    'is-ancestor -bumla 0.5.0 ':
+      'prefix': 'is-ancestor'
+      'body': """
+      <div class="tile is-ancestor">
+       $1
+      </div>
+      """
+
+    'is-vertical -bumla 0.5.0 ':
+      'prefix': 'is-vertical'
+      'body': """
+      <div class="tile is-vertical">
+       $1
+      </div>
+      """
+
+    'is-parent -bumla 0.5.0 ':
+      'prefix': 'is-parent'
+      'body': """
+      <div class="tile is-parent">
+       $1
+      </div>
+      """
+
+    'is-child -bumla 0.5.0 ':
+      'prefix': 'is-child'
+      'body': """
+      <div class="tile is-child">
+       $1
+      </div>
+      """
+
+    'content -bumla 0.5.0 ':
+      'prefix': 'content'
+      'body': """
+      <div class="content">
+       $1
+      </div>
+      """
+
+    'title -bumla 0.5.0 ':
+      'prefix': 'title'
+      'body': """
+      <div class="content">
+       <p class="title">$1<p>
+      </div>
+      """
+
+    'subtitle -bumla 0.5.0 ':
+      'prefix': 'subtitle'
+      'body': """
+      <div class="content">
+       <p class="subtitle">$1<p>
+      </div>
+      """
+
+    'box -bumla 0.5.0 ':
+      'prefix': 'box'
+      'body': """
+      <div class="box">
+       $1
+      </div>
+      """

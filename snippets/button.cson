@@ -1,0 +1,55 @@
+'.text.html':
+
+    'is-white -bumla 0.5.0 ':
+      'prefix': 'is-white'
+      'body': """
+
+      """
+
+    'is-light -bumla 0.5.0 ':
+      'prefix': 'is-light'
+      'body': """
+
+      """
+
+    'is-dark -bumla 0.5.0 ':
+      'prefix': 'is-dark'
+      'body': """
+
+      """
+
+    'is-black -bumla 0.5.0 ':
+      'prefix': 'is-black'
+      'body': """
+
+      """
+
+    'is-link -bumla 0.5.0 ':
+      'prefix': 'is-link'
+      'body': """
+
+      """
+
+    'is-outlined -bumla 0.5.0 ':
+      'prefix': 'is-outlined'
+      'body': """
+
+      """
+
+    'is-inverted -bumla 0.5.0 ':
+      'prefix': 'is-inverted'
+      'body': """
+
+      """
+
+    'is-active -bumla 0.5.0 ':
+      'prefix': 'is-active'
+      'body': """
+
+      """
+
+    'is-static -bumla 0.5.0 ':
+      'prefix': 'is-static'
+      'body': """
+
+      """

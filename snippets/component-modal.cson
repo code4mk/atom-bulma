@@ -1,0 +1,121 @@
+'.text.html':
+
+    'modal -bumla 0.5.0 ':
+      'prefix': 'modal'
+      'body': """
+       <div class="modal">
+         <div class="modal-background"></div>
+         <div class="modal-content">
+           <!-- Any other Bulma elements you want -->
+         </div>
+         <button class="modal-close is-large"></button>
+       </div>
+      """
+
+    'modal-background -bumla 0.5.0 ':
+      'prefix': 'modal-background'
+      'body': """
+       <div class="modal">
+         <div class="modal-background"></div>
+         <div class="modal-content">
+           <!-- Any other Bulma elements you want -->
+         </div>
+         <button class="modal-close is-large"></button>
+       </div>
+      """
+
+    'modal-content -bumla 0.5.0 ':
+      'prefix': 'modal-content'
+      'body': """
+       <div class="modal">
+         <div class="modal-background"></div>
+         <div class="modal-content">
+           <!-- Any other Bulma elements you want -->
+         </div>
+         <button class="modal-close is-large"></button>
+       </div>
+      """
+
+    'modal-close -bumla 0.5.0 ':
+      'prefix': 'modal-close'
+      'body': """
+       <div class="modal">
+         <div class="modal-background"></div>
+         <div class="modal-content">
+           <!-- Any other Bulma elements you want -->
+         </div>
+         <button class="modal-close is-large"></button>
+       </div>
+      """
+
+    'modal-card -bumla 0.5.0 ':
+      'prefix': 'modal-card'
+      'body': """
+       <div class="modal-card">
+          <header class="modal-card-head">
+            <p class="modal-card-title">Modal title</p>
+            <button class="delete"></button>
+          </header>
+          <section class="modal-card-body">
+            <!-- Content ... -->
+          </section>
+          <footer class="modal-card-foot">
+            <a class="button is-success">Save changes</a>
+            <a class="button">Cancel</a>
+          </footer>
+        </div>
+      """
+
+    'modal-card-head -bumla 0.5.0 ':
+      'prefix': 'modal-card-head'
+      'body': """
+       <div class="modal-card">
+          <header class="modal-card-head">
+            <p class="modal-card-title">Modal title</p>
+            <button class="delete"></button>
+          </header>
+          <section class="modal-card-body">
+            <!-- Content ... -->
+          </section>
+          <footer class="modal-card-foot">
+            <a class="button is-success">Save changes</a>
+            <a class="button">Cancel</a>
+          </footer>
+        </div>
+      """
+
+    'modal-card-body -bumla 0.5.0 ':
+      'prefix': 'modal-card-body'
+      'body': """
+       <div class="modal-card">
+          <header class="modal-card-head">
+            <p class="modal-card-title">Modal title</p>
+            <button class="delete"></button>
+          </header>
+          <section class="modal-card-body">
+            <!-- Content ... -->
+          </section>
+          <footer class="modal-card-foot">
+            <a class="button is-success">Save changes</a>
+            <a class="button">Cancel</a>
+          </footer>
+        </div>
+      """
+
+    'modal-card-foot -bumla 0.5.0 ':
+      'prefix': 'modal-card-foot'
+      'body': """
+       <div class="modal-card">
+          <header class="modal-card-head">
+            <p class="modal-card-title">Modal title</p>
+            <button class="delete"></button>
+          </header>
+          <section class="modal-card-body">
+            <!-- Content ... -->
+          </section>
+          <footer class="modal-card-foot">
+            <a class="button is-success">Save changes</a>
+            <a class="button">Cancel</a>
+          </footer>
+        </div>
+      """

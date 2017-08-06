@@ -1,0 +1,85 @@
+'.text.html':
+
+  'image -bumla 0.5.0 ':
+    'prefix': 'image'
+    'body': """
+
+    """
+
+  'is-16x16 -bumla 0.5.0 ':
+    'prefix': 'is-16x16'
+    'body': """
+
+    """
+
+  'is-24x24 -bumla 0.5.0 ':
+    'prefix': 'is-24x24'
+    'body': """
+
+    """
+
+  'is-32x32 -bumla 0.5.0 ':
+    'prefix': 'is-32x32'
+    'body': """
+
+    """
+
+  'is-48x48 -bumla 0.5.0 ':
+    'prefix': 'is-48x48'
+    'body': """
+
+    """
+
+  'is-64x64 -bumla 0.5.0 ':
+    'prefix': 'is-64x64'
+    'body': """
+
+    """
+
+  'is-96x96 -bumla 0.5.0 ':
+    'prefix': 'is-96x96'
+    'body': """
+
+    """
+
+  'is-128x128 -bumla 0.5.0 ':
+    'prefix': 'is-128x128'
+    'body': """
+
+    """
+
+  'is-1by1 -bumla 0.5.0 ':
+    'prefix': 'is-1by1'
+    'body': """
+
+    """
+
+  'is-4by3 -bumla 0.5.0 ':
+    'prefix': 'is-4by3'
+    'body': """
+
+    """
+
+  'is-3by2 -bumla 0.5.0 ':
+    'prefix': 'is-3by2'
+    'body': """
+
+    """
+
+  'is-16by9 -bumla 0.5.0 ':
+    'prefix': 'is-16by9'
+    'body': """
+
+    """
+
+  'is-2by1 -bumla 0.5.0 ':
+    'prefix': 'is-2by1'
+    'body': """
+
+    """
+
+  'is-square -bumla 0.5.0 ':
+    'prefix': 'is-square'
+    'body': """
+
+    """

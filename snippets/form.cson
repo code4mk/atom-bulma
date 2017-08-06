@@ -1,0 +1,233 @@
+'.text.html':
+
+  'field -bumla 0.5.0 ':
+    'prefix': 'field'
+    'body': """
+    <div class="field">
+      <label class="label">Label</label>
+      <div class="control">
+        <input class="input" type="text" placeholder="Text input">
+      </div>
+    </div>
+    """
+
+  'label -bumla 0.5.0 ':
+    'prefix': 'label'
+    'body': """
+    <div class="field">
+      <label class="label">Label</label>
+      <div class="control">
+        <input class="input" type="text" placeholder="Text input">
+      </div>
+    </div>
+    """
+
+  'control -bumla 0.5.0 ':
+    'prefix': 'control'
+    'body': """
+    <div class="control">
+      <input class="input" type="text" placeholder="Text input">
+    </div>
+    """
+
+  'select -bumla 0.5.0 ':
+    'prefix': 'selec'
+    'body': """
+    <div class="control">
+      <div class="select">
+        <select>
+          <option>Select dropdown</option>
+          <option>With options</option>
+        </select>
+      </div>
+    </div>
+    """
+
+  'has-addons -bumla 0.5.0 ':
+    'prefix': 'has-addons'
+    'body': """
+    <div class="field has-addons">
+     <div class="control">
+       <input class="input" type="text" placeholder="Find a repository">
+     </div>
+     <div class="control">
+       <a class="button is-info">
+         Search
+       </a>
+     </div>
+    </div>
+    """
+
+  'has-icons-left -bumla 0.5.0 ':
+    'prefix': 'has-icons-left'
+    'body': """
+
+    """
+
+  'is-expanded -bumla 0.5.0 ':
+    'prefix': 'is-expanded'
+    'body': """
+
+    """
+
+  'is-fullwidth -bumla 0.5.0 ':
+    'prefix': 'is-fullwidth'
+    'body': """
+
+    """
+
+  'is-normal -bumla 0.5.0 ':
+    'prefix': 'is-normal'
+    'body': """
+
+    """
+
+  'is-grouped -bumla 0.5.0 ':
+    'prefix': 'is-grouped'
+    'body': """
+
+    """
+
+  'is-grouped-centered -bumla 0.5.0 ':
+    'prefix': 'is-grouped-centered'
+    'body': """
+
+    """
+
+  'is-grouped-right -bumla 0.5.0 ':
+    'prefix': 'is-grouped-right'
+    'body': """
+
+    """
+
+  'is-grouped-multiline -bumla 0.5.0 ':
+    'prefix': 'is-grouped-multiline'
+    'body': """
+
+    """
+
+  'is-horizontal -bumla 0.5.0 ':
+    'prefix': 'is-horizontal'
+    'body': """
+
+    """
+
+  'field-label -bumla 0.5.0 ':
+    'prefix': 'field-label'
+    'body': """
+
+    """
+
+  'field-body -bumla 0.5.0 ':
+    'prefix': 'field-body'
+    'body': """
+
+    """
+
+  'has-addons-centered -bumla 0.5.0 ':
+    'prefix': 'has-addons-centered'
+    'body': """
+
+    """
+
+  'has-addons-right -bumla 0.5.0 ':
+    'prefix': 'has-addons-right'
+    'body': """
+
+    """
+
+  'has-icons-right -bumla 0.5.0 ':
+    'prefix': 'has-icons-right'
+    'body': """
+
+    """
+
+  'is-small -bumla 0.5.0 ':
+    'prefix': 'is-small'
+    'body': """
+
+    """
+
+  'is-medium -bumla 0.5.0 ':
+    'prefix': 'is-medium'
+    'body': """
+
+    """
+
+  'is-large -bumla 0.5.0 ':
+    'prefix': 'is-large'
+    'body': """
+
+    """
+
+  'is-right -bumla 0.5.0 ':
+    'prefix': 'is-right'
+    'body': """
+
+    """
+
+  'is-left -bumla 0.5.0 ':
+    'prefix': 'is-left'
+    'body': """
+
+    """
+
+  'icon -bumla 0.5.0 ':
+    'prefix': 'icon'
+    'body': """
+
+    """
+
+    'checkbox -bumla 0.5.0 ':
+      'prefix': 'checkbox'
+      'body': """
+
+      """
+
+    'radio -bumla 0.5.0 ':
+      'prefix': 'radio'
+      'body': """
+
+      """
+
+    'file -bumla 0.5.0 ':
+      'prefix': 'file'
+      'body': """
+
+      """
+
+    'file-label -bumla 0.5.0 ':
+      'prefix': 'file-label'
+      'body': """
+
+      """
+
+    'file-input -bumla 0.5.0 ':
+      'prefix': 'file-input'
+      'body': """
+
+      """
+
+    'file-cta -bumla 0.5.0 ':
+      'prefix': 'file-cta'
+      'body': """
+
+      """
+
+    'file-icon -bumla 0.5.0 ':
+      'prefix': 'file-icon'
+      'body': """
+
+      """
+
+    'file-name -bumla 0.5.0 ':
+      'prefix': 'file-name'
+      'body': """
+
+      """
+
+    'has-name -bumla 0.5.0 ':
+      'prefix': 'has-name'
+      'body': """
+
+      """

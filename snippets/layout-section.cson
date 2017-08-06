@@ -1,0 +1,17 @@
+'.text.html':
+
+  'section bulma -bumla 0.5.0 ':
+    'prefix': 'sectio'
+    'body': """
+    <section class="section">
+     $1
+    </section>
+    """
+
+  'navbar bulma -bumla 0.5.0 ':
+    'prefix': 'navbar'
+    'body': """
+    <nav class="navbar">
+     $1
+    </nav>
+    """

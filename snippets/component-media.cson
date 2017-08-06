@@ -1,0 +1,51 @@
+'.text.html':
+
+  'media -bumla 0.5.0 ':
+    'prefix': 'menu'
+    'body': """
+    <article class="media">
+     $1
+    </article>
+    """
+
+  'media-left -bumla 0.5.0 ':
+    'prefix': 'menu-left'
+    'body': """
+
+    """
+
+  'media-content -bumla 0.5.0 ':
+    'prefix': 'menu-content'
+    'body': """
+
+    """
+
+  'media-right -bumla 0.5.0 ':
+    'prefix': 'menu-right'
+    'body': """
+
+    """
+
+  'level -bumla 0.5.0 ':
+    'prefix': 'level'
+    'body': """
+
+    """
+
+  'level-left -bumla 0.5.0 ':
+    'prefix': 'level-left'
+    'body': """
+
+    """
+
+  'level-right -bumla 0.5.0 ':
+    'prefix': 'level-right'
+    'body': """
+    
+    """
+
+  'level-item -bumla 0.5.0 ':
+    'prefix': 'level-item'
+    'body': """
+
+    """

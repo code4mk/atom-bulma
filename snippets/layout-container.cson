@@ -1,0 +1,33 @@
+'.text.html':
+
+    'container -bumla 0.5.0 ':
+      'prefix': 'container'
+      'body': """
+      <div class="container">
+       $1
+      </div>
+      """
+
+    'is-fluid -bumla 0.5.0 ':
+      'prefix': 'is-fluid'
+      'body': """
+      <div class="container is-fluid">
+       $1
+      </div>
+      """
+
+    'is-widescreen -bumla 0.5.0 ':
+      'prefix': 'is-widescreen'
+      'body': """
+      <div class="container is-widescreen">
+       $1
+      </div>
+      """
+
+    'is-fullhd -bumla 0.5.0 ':
+      'prefix': 'is-fullhd'
+      'body': """
+      <div class="container is-fullhd">
+       $1
+      </div>
+      """

@@ -1,0 +1,85 @@
+'.text.html':
+
+    'navbar-brand -bumla 0.5.0 ':
+      'prefix': 'navbar-brand'
+      'body': """
+
+      """
+
+    'navbar-burger -bumla 0.5.0 ':
+      'prefix': 'navbar-burger'
+      'body': """
+
+      """
+
+    'navbar-menu -bumla 0.5.0 ':
+      'prefix': 'navbar-menu'
+      'body': """
+
+      """
+
+    'navbar-start -bumla 0.5.0 ':
+      'prefix': 'navbar-start'
+      'body': """
+
+      """
+
+    'navbar-end -bumla 0.5.0 ':
+      'prefix': 'navbar-end'
+      'body': """
+
+      """
+
+    'navbar-item -bumla 0.5.0 ':
+      'prefix': 'navbar-item'
+      'body': """
+
+      """
+
+    'navbar-link -bumla 0.5.0 ':
+      'prefix': 'navbar-link'
+      'body': """
+
+      """
+
+    'navbar-dropdown -bumla 0.5.0 ':
+      'prefix': 'navbar-dropdown'
+      'body': """
+
+      """
+
+    'navbar-divider -bumla 0.5.0 ':
+      'prefix': 'navbar-divider'
+      'body': """
+
+      """
+
+    'has-dropdown -bumla 0.5.0 ':
+      'prefix': 'has-dropdown'
+      'body': """
+
+      """
+
+    'is-transparent -bumla 0.5.0 ':
+      'prefix': 'is-transparent'
+      'body': """
+
+      """
+
+    'is-hoverable -bumla 0.5.0 ':
+      'prefix': 'is-hoverable'
+      'body': """
+
+      """
+
+    'is-boxed -bumla 0.5.0 ':
+      'prefix': 'is-boxed'
+      'body': """
+
+      """
+
+    'is-hidden-desktop -bumla 0.5.0 ':
+      'prefix': 'is-hidden-desktop'
+      'body': """
+
+      """

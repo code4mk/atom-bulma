@@ -1,6 +1,6 @@
 '.text.html':
 
-  'columns -bumla 0.5.0 ':
+  'columns -> bulma':
     'prefix': 'columns'
     'body': """
     <div class="columns">
@@ -181,97 +181,97 @@
     </div>
     """
 
-  'is-offset-three-quarters -bumla 0.5.0 ':
+  'is-offset-three-quarters -> bulma':
     'prefix': 'is-offset-three-quarters'
     'body': """
 
     """
 
-  'is-offset-two-thirds -bumla 0.5.0 ':
+  'is-offset-two-thirds -> bulma':
     'prefix': 'is-offset-two-thirds'
     'body': """
 
     """
 
-  'is-offset-half -bumla 0.5.0 ':
+  'is-offset-half -> bulma':
     'prefix': 'is-offset-half'
     'body': """
 
     """
 
-  'is-offset-one-quarter -bumla 0.5.0 ':
+  'is-offset-one-quarter -> bulma':
     'prefix': 'is-offset-one-quarter'
     'body': """
 
     """
 
-  'is-offset-1 -bumla 0.5.0 ':
+  'is-offset-1 -> bulma':
     'prefix': 'is-offset-1'
     'body': """
 
     """
 
-  'is-offset-2 -bumla 0.5.0 ':
+  'is-offset-2 -> bulma':
     'prefix': 'is-offset-2'
     'body': """
 
     """
 
-  'is-offset-3 -bumla 0.5.0 ':
+  'is-offset-3 -> bulma':
     'prefix': 'is-offset-3'
     'body': """
 
     """
 
-  'is-offset-4 -bumla 0.5.0 ':
+  'is-offset-4 -> bulma':
     'prefix': 'is-offset-4'
     'body': """
 
     """
 
-  'is-offset-5 -bumla 0.5.0 ':
+  'is-offset-5 -> bulma':
     'prefix': 'is-offset-5'
     'body': """
 
     """
 
-  'is-offset-6 -bumla 0.5.0 ':
+  'is-offset-6 -> bulma':
     'prefix': 'is-offset-6'
     'body': """
 
     """
 
-  'is-offset-7 -bumla 0.5.0 ':
+  'is-offset-7 -> bulma':
     'prefix': 'is-offset-7'
     'body': """
 
     """
 
-  'is-offset-8 -bumla 0.5.0 ':
+  'is-offset-8 -> bulma':
     'prefix': 'is-offset-8'
     'body': """
 
     """
 
-  'is-offset-9 -bumla 0.5.0 ':
+  'is-offset-9 -> bulma':
     'prefix': 'is-offset-9'
     'body': """
 
     """
 
-  'is-offset-10 -bumla 0.5.0 ':
+  'is-offset-10 -> bulma':
     'prefix': 'is-offset-10'
     'body': """
 
     """
 
-  'is-offset-11 -bumla 0.5.0 ':
+  'is-offset-11 -> bulma':
     'prefix': 'is-offset-11'
     'body': """
 
     """
 
-  'is-offset-12 -bumla 0.5.0 ':
+  'is-offset-12 -> bulma':
     'prefix': 'is-offset-12'
     'body': """
 

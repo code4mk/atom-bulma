@@ -1,6 +1,6 @@
 '.text.html':
 
-  'pagination -bumla 0.5.0 ':
+  'pagination -> bulma':
     'prefix': 'pagination'
     'body': """
      <nav class="pagination">
@@ -32,37 +32,37 @@
       </nav>
     """
 
-    'pagination-previous -bumla 0.5.0 ':
+    'pagination-previous -> bulma':
       'prefix': 'pagination-previous'
       'body': """
 
       """
 
-    'pagination-next -bumla 0.5.0 ':
+    'pagination-next -> bulma':
       'prefix': 'pagination-next'
       'body': """
 
       """
 
-    'pagination-list -bumla 0.5.0 ':
+    'pagination-list -> bulma':
       'prefix': 'pagination-list'
       'body': """
 
       """
 
-    'pagination-link -bumla 0.5.0 ':
+    'pagination-link -> bulma':
       'prefix': 'pagination-link'
       'body': """
 
       """
 
-    'pagination-ellipsis -bumla 0.5.0 ':
+    'pagination-ellipsis -> bulma':
       'prefix': 'pagination-ellipsis'
       'body': """
 
       """
 
-    'is-current -bumla 0.5.0 ':
+    'is-current -> bulma':
       'prefix': 'is-current'
       'body': """
 

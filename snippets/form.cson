@@ -1,6 +1,6 @@
 '.text.html':
 
-  'field -bumla 0.5.0 ':
+  'field -> bulma':
     'prefix': 'field'
     'body': """
     <div class="field">
@@ -11,7 +11,7 @@
     </div>
     """
 
-  'label -bumla 0.5.0 ':
+  'label -> bulma':
     'prefix': 'label'
     'body': """
     <div class="field">
@@ -22,7 +22,7 @@
     </div>
     """
 
-  'control -bumla 0.5.0 ':
+  'control -> bulma':
     'prefix': 'control'
     'body': """
     <div class="control">
@@ -30,7 +30,7 @@
     </div>
     """
 
-  'select -bumla 0.5.0 ':
+  'select -> bulma':
     'prefix': 'selec'
     'body': """
     <div class="control">
@@ -43,7 +43,7 @@
     </div>
     """
 
-  'has-addons -bumla 0.5.0 ':
+  'has-addons -> bulma':
     'prefix': 'has-addons'
     'body': """
     <div class="field has-addons">
@@ -58,175 +58,175 @@
     </div>
     """
 
-  'has-icons-left -bumla 0.5.0 ':
+  'has-icons-left -> bulma':
     'prefix': 'has-icons-left'
     'body': """
 
     """
 
-  'is-expanded -bumla 0.5.0 ':
+  'is-expanded -> bulma':
     'prefix': 'is-expanded'
     'body': """
 
     """
 
-  'is-fullwidth -bumla 0.5.0 ':
+  'is-fullwidth -> bulma':
     'prefix': 'is-fullwidth'
     'body': """
 
     """
 
-  'is-normal -bumla 0.5.0 ':
+  'is-normal -> bulma':
     'prefix': 'is-normal'
     'body': """
 
     """
 
-  'is-grouped -bumla 0.5.0 ':
+  'is-grouped -> bulma':
     'prefix': 'is-grouped'
     'body': """
 
     """
 
-  'is-grouped-centered -bumla 0.5.0 ':
+  'is-grouped-centered -> bulma':
     'prefix': 'is-grouped-centered'
     'body': """
 
     """
 
-  'is-grouped-right -bumla 0.5.0 ':
+  'is-grouped-right -> bulma':
     'prefix': 'is-grouped-right'
     'body': """
 
     """
 
-  'is-grouped-multiline -bumla 0.5.0 ':
+  'is-grouped-multiline -> bulma':
     'prefix': 'is-grouped-multiline'
     'body': """
 
     """
 
-  'is-horizontal -bumla 0.5.0 ':
+  'is-horizontal -> bulma':
     'prefix': 'is-horizontal'
     'body': """
 
     """
 
-  'field-label -bumla 0.5.0 ':
+  'field-label -> bulma':
     'prefix': 'field-label'
     'body': """
 
     """
 
-  'field-body -bumla 0.5.0 ':
+  'field-body -> bulma':
     'prefix': 'field-body'
     'body': """
 
     """
 
-  'has-addons-centered -bumla 0.5.0 ':
+  'has-addons-centered -> bulma':
     'prefix': 'has-addons-centered'
     'body': """
 
     """
 
-  'has-addons-right -bumla 0.5.0 ':
+  'has-addons-right -> bulma':
     'prefix': 'has-addons-right'
     'body': """
 
     """
 
-  'has-icons-right -bumla 0.5.0 ':
+  'has-icons-right -> bulma':
     'prefix': 'has-icons-right'
     'body': """
 
     """
 
-  'is-small -bumla 0.5.0 ':
+  'is-small -> bulma':
     'prefix': 'is-small'
     'body': """
 
     """
 
-  'is-medium -bumla 0.5.0 ':
+  'is-medium -> bulma':
     'prefix': 'is-medium'
     'body': """
 
     """
 
-  'is-large -bumla 0.5.0 ':
+  'is-large -> bulma':
     'prefix': 'is-large'
     'body': """
 
     """
 
-  'is-right -bumla 0.5.0 ':
+  'is-right -> bulma':
     'prefix': 'is-right'
     'body': """
 
     """
 
-  'is-left -bumla 0.5.0 ':
+  'is-left -> bulma':
     'prefix': 'is-left'
     'body': """
 
     """
 
-  'icon -bumla 0.5.0 ':
+  'icon -> bulma':
     'prefix': 'icon'
     'body': """
 
     """
 
-    'checkbox -bumla 0.5.0 ':
+    'checkbox -> bulma':
       'prefix': 'checkbox'
       'body': """
 
       """
 
-    'radio -bumla 0.5.0 ':
+    'radio -> bulma':
       'prefix': 'radio'
       'body': """
 
       """
 
-    'file -bumla 0.5.0 ':
+    'file -> bulma':
       'prefix': 'file'
       'body': """
 
       """
 
-    'file-label -bumla 0.5.0 ':
+    'file-label -> bulma':
       'prefix': 'file-label'
       'body': """
 
       """
 
-    'file-input -bumla 0.5.0 ':
+    'file-input -> bulma':
       'prefix': 'file-input'
       'body': """
 
       """
 
-    'file-cta -bumla 0.5.0 ':
+    'file-cta -> bulma':
       'prefix': 'file-cta'
       'body': """
 
       """
 
-    'file-icon -bumla 0.5.0 ':
+    'file-icon -> bulma':
       'prefix': 'file-icon'
       'body': """
 
       """
 
-    'file-name -bumla 0.5.0 ':
+    'file-name -> bulma':
       'prefix': 'file-name'
       'body': """
 
       """
 
-    'has-name -bumla 0.5.0 ':
+    'has-name -> bulma':
       'prefix': 'has-name'
       'body': """
 

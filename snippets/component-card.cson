@@ -1,48 +1,48 @@
 '.text.html':
 
-  'card -bumla 0.5.0 ':
+  'card -> bulma':
     'prefix': 'card'
     'body': """
 
     """
 
-  'card-header -bumla 0.5.0 ':
+  'card-header -> bulma':
     'prefix': 'card-header'
     'body': """
 
     """
 
-  'card-header-title -bumla 0.5.0 ':
+  'card-header-title -> bulma':
     'prefix': 'card-header-title'
     'body': """
 
     """
 
-  'card-header-icon -bumla 0.5.0 ':
+  'card-header-icon -> bulma':
     'prefix': 'card-header-icon'
     'body': """
 
     """
 
-  'card-image -bumla 0.5.0 ':
+  'card-image -> bulma':
     'prefix': 'card-image'
     'body': """
 
     """
 
-  'card-content -bumla 0.5.0 ':
+  'card-content -> bulma':
     'prefix': 'card-content'
     'body': """
 
     """
 
-  'card-footer -bumla 0.5.0 ':
+  'card-footer -> bulma':
     'prefix': 'card-footer'
     'body': """
 
     """
 
-  'card-footer-item -bumla 0.5.0 ':
+  'card-footer-item -> bulma':
     'prefix': 'card-footer-item'
     'body': """
 

@@ -1,6 +1,6 @@
 '.text.html':
 
-   'html -bumla 0.5.0 ':
+   'html -> bulma':
      'prefix': 'ht'
      'body': """
       <!DOCTYPE html>

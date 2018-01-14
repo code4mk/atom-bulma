@@ -1,6 +1,6 @@
 '.text.html':
 
-  'hero -bumla 0.5.0 ':
+  'hero -> bulma':
     'prefix': 'hero'
     'body': """
     <section class="hero">
@@ -8,7 +8,7 @@
     </section>
     """
 
-  'hero-body -bumla 0.5.0 ':
+  'hero-body -> bulma':
     'prefix': 'hero-body'
     'body': """
     <section class="hero">

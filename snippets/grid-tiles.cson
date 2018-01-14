@@ -1,6 +1,6 @@
 '.text.html':
 
-    'tile -bumla 0.5.0 ':
+    'tile -> bulma':
       'prefix': 'tile'
       'body': """
       <div class="tile">
@@ -8,7 +8,7 @@
       </div>
       """
 
-    'is-ancestor -bumla 0.5.0 ':
+    'is-ancestor -> bulma':
       'prefix': 'is-ancestor'
       'body': """
       <div class="tile is-ancestor">
@@ -16,7 +16,7 @@
       </div>
       """
 
-    'is-vertical -bumla 0.5.0 ':
+    'is-vertical -> bulma':
       'prefix': 'is-vertical'
       'body': """
       <div class="tile is-vertical">
@@ -24,7 +24,7 @@
       </div>
       """
 
-    'is-parent -bumla 0.5.0 ':
+    'is-parent -> bulma':
       'prefix': 'is-parent'
       'body': """
       <div class="tile is-parent">
@@ -32,7 +32,7 @@
       </div>
       """
 
-    'is-child -bumla 0.5.0 ':
+    'is-child -> bulma':
       'prefix': 'is-child'
       'body': """
       <div class="tile is-child">
@@ -40,7 +40,7 @@
       </div>
       """
 
-    'content -bumla 0.5.0 ':
+    'content -> bulma':
       'prefix': 'content'
       'body': """
       <div class="content">
@@ -48,7 +48,7 @@
       </div>
       """
 
-    'title -bumla 0.5.0 ':
+    'title -> bulma':
       'prefix': 'title'
       'body': """
       <div class="content">
@@ -56,7 +56,7 @@
       </div>
       """
 
-    'subtitle -bumla 0.5.0 ':
+    'subtitle -> bulma':
       'prefix': 'subtitle'
       'body': """
       <div class="content">
@@ -64,7 +64,7 @@
       </div>
       """
 
-    'box -bumla 0.5.0 ':
+    'box -> bulma':
       'prefix': 'box'
       'body': """
       <div class="box">

@@ -1,35 +1,35 @@
 '.text.html':
 
-  'dropdown -bumla 0.5.0 ':
+  'dropdown -> bulma':
     'prefix': 'dropdown'
     'body': """
 
     """
 
-  'dropdown-trigger -bumla 0.5.0 ':
+  'dropdown-trigger -> bulma':
     'prefix': 'dropdown-trigger'
     'body': """
 
     """
 
-  'dropdown-menu -bumla 0.5.0 ':
+  'dropdown-menu -> bulma':
     'prefix': 'dropdown-menu'
     'body': """
 
     """
-  'dropdown-content -bumla 0.5.0 ':
+  'dropdown-content -> bulma':
     'prefix': 'dropdown-content'
     'body': """
 
     """
 
-  'dropdown-item -bumla 0.5.0 ':
+  'dropdown-item -> bulma':
     'prefix': 'dropdown-item'
     'body': """
 
     """
 
-  'dropdown-divider -bumla 0.5.0 ':
+  'dropdown-divider -> bulma':
     'prefix': 'dropdown-divider'
     'body': """
 

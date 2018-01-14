@@ -1,6 +1,6 @@
 '.text.html':
 
-  'media -bumla 0.5.0 ':
+  'media -> bulma':
     'prefix': 'menu'
     'body': """
     <article class="media">
@@ -8,43 +8,43 @@
     </article>
     """
 
-  'media-left -bumla 0.5.0 ':
+  'media-left -> bulma':
     'prefix': 'menu-left'
     'body': """
 
     """
 
-  'media-content -bumla 0.5.0 ':
+  'media-content -> bulma':
     'prefix': 'menu-content'
     'body': """
 
     """
 
-  'media-right -bumla 0.5.0 ':
+  'media-right -> bulma':
     'prefix': 'menu-right'
     'body': """
 
     """
 
-  'level -bumla 0.5.0 ':
+  'level -> bulma':
     'prefix': 'level'
     'body': """
 
     """
 
-  'level-left -bumla 0.5.0 ':
+  'level-left -> bulma':
     'prefix': 'level-left'
     'body': """
 
     """
 
-  'level-right -bumla 0.5.0 ':
+  'level-right -> bulma':
     'prefix': 'level-right'
     'body': """
-    
+
     """
 
-  'level-item -bumla 0.5.0 ':
+  'level-item -> bulma':
     'prefix': 'level-item'
     'body': """
 

@@ -1,84 +1,84 @@
 '.text.html':
 
-    'navbar-brand -bumla 0.5.0 ':
+    'navbar-brand -> bulma':
       'prefix': 'navbar-brand'
       'body': """
 
       """
 
-    'navbar-burger -bumla 0.5.0 ':
+    'navbar-burger -> bulma':
       'prefix': 'navbar-burger'
       'body': """
 
       """
 
-    'navbar-menu -bumla 0.5.0 ':
+    'navbar-menu -> bulma':
       'prefix': 'navbar-menu'
       'body': """
 
       """
 
-    'navbar-start -bumla 0.5.0 ':
+    'navbar-start -> bulma':
       'prefix': 'navbar-start'
       'body': """
 
       """
 
-    'navbar-end -bumla 0.5.0 ':
+    'navbar-end -> bulma':
       'prefix': 'navbar-end'
       'body': """
 
       """
 
-    'navbar-item -bumla 0.5.0 ':
+    'navbar-item -> bulma':
       'prefix': 'navbar-item'
       'body': """
 
       """
 
-    'navbar-link -bumla 0.5.0 ':
+    'navbar-link -> bulma':
       'prefix': 'navbar-link'
       'body': """
 
       """
 
-    'navbar-dropdown -bumla 0.5.0 ':
+    'navbar-dropdown -> bulma':
       'prefix': 'navbar-dropdown'
       'body': """
 
       """
 
-    'navbar-divider -bumla 0.5.0 ':
+    'navbar-divider -> bulma':
       'prefix': 'navbar-divider'
       'body': """
 
       """
 
-    'has-dropdown -bumla 0.5.0 ':
+    'has-dropdown -> bulma':
       'prefix': 'has-dropdown'
       'body': """
 
       """
 
-    'is-transparent -bumla 0.5.0 ':
+    'is-transparent -> bulma':
       'prefix': 'is-transparent'
       'body': """
 
       """
 
-    'is-hoverable -bumla 0.5.0 ':
+    'is-hoverable -> bulma':
       'prefix': 'is-hoverable'
       'body': """
 
       """
 
-    'is-boxed -bumla 0.5.0 ':
+    'is-boxed -> bulma':
       'prefix': 'is-boxed'
       'body': """
 
       """
 
-    'is-hidden-desktop -bumla 0.5.0 ':
+    'is-hidden-desktop -> bulma':
       'prefix': 'is-hidden-desktop'
       'body': """
 

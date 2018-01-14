@@ -1,35 +1,35 @@
 '.text.html':
 
-    'is-primary -bumla 0.5.0 ':
+    'is-primary -> bulma':
       'prefix': 'is-primary'
       'body': """
       <p class="is-primary">$1</p>
       """
 
-    'is-info -bumla 0.5.0 ':
+    'is-info -> bulma':
       'prefix': 'is-info'
       'body': """
       <p class="is-info">$1</p>
       """
-    'is-success -bumla 0.5.0 ':
+    'is-success -> bulma':
       'prefix': 'is-success'
       'body': """
       <p class="is-success">$1</p>
       """
 
-    'is-warning -bumla 0.5.0 ':
+    'is-warning -> bulma':
       'prefix': 'is-warning'
       'body': """
       <p class="is-warning">$1</p>
       """
 
-    'is-danger -bumla 0.5.0 ':
+    'is-danger -> bulma':
       'prefix': 'is-danger'
       'body': """
       <p class="is-danger">$1</p>
       """
 
-    'is-hover -bumla 0.5.0 ':
+    'is-hover -> bulma':
       'prefix': 'is-hover'
       'body': """
       <div class="control">
@@ -37,7 +37,7 @@
       </div>
       """
 
-    'is-focused -bumla 0.5.0 ':
+    'is-focused -> bulma':
       'prefix': 'is-focused'
       'body': """
        <div class="control">
@@ -45,7 +45,7 @@
        </div>
       """
 
-    'is-loading -bumla 0.5.0 ':
+    'is-loading -> bulma':
       'prefix': 'is-loading'
       'body': """
        <div class="control">

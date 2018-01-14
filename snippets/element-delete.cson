@@ -1,54 +1,54 @@
 '.text.html':
 
-  'delete -bumla 0.5.0 ':
+  'delete -> bulma':
     'prefix': 'delete'
     'body': """
 
     """
 
-  'block -bumla 0.5.0 ':
+  'block -> bulma':
     'prefix': 'block'
     'body': """
 
     """
 
-  'tag -bumla 0.5.0 ':
+  'tag -> bulma':
     'prefix': 'tag'
     'body': """
 
     """
 
-  'tags -bumla 0.5.0 ':
+  'tags -> bulma':
     'prefix': 'tags'
     'body': """
 
     """
 
-  'notification  -bumla 0.5.0 ':
+  'notification  -> bulma':
     'prefix': 'notification '
     'body': """
 
     """
 
-  'message  -bumla 0.5.0 ':
+  'message  -> bulma':
     'prefix': 'message '
     'body': """
 
     """
 
-  'message-header  -bumla 0.5.0 ':
+  'message-header  -> bulma':
     'prefix': 'message-header '
     'body': """
 
     """
 
-  'message-body  -bumla 0.5.0 ':
+  'message-body  -> bulma':
     'prefix': 'message-body '
     'body': """
 
     """
 
-  'progress  -bumla 0.5.0 ':
+  'progress  -> bulma':
     'prefix': 'progress '
     'body': """
 

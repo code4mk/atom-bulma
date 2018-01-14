@@ -1,6 +1,6 @@
 '.text.html':
 
-  'footer bulma -bumla 0.5.0 ':
+  'footer bulma -> bulma':
     'prefix': 'foote'
     'body': """
     <footer class="footer">
